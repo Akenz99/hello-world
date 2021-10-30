@@ -1,5 +1,6 @@
 #!/bin/bash
 
+echo "hello dundee"
 echo "hello world"
 echo "hello fahad"
 echo "hello from vim now"
